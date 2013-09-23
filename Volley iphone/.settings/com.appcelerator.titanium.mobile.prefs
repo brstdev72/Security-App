@@ -1,0 +1,15 @@
+android/alias=tbi
+android/keystore=E\:\\BackUp\\guri.keystore
+android/output_location=E\:\\Titanium Backup
+android/recent_output=E\:\\Titanium Backup
+android/sdk=Google APIs (Android 4.2.2)
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=Volley
+iosLaunchConfigurationAttributes/appid=com.brihaspati.volley
+iosLaunchConfigurationAttributes/certificate=Mrinal Khullar (R9HHDMASC3)
+iosLaunchConfigurationAttributes/distribute_path=/Users/brst/Documents
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/output_format=ipa
+iosLaunchConfigurationAttributes/sdk_version=6.1
+iosLaunchConfigurationAttributes/uuid=8B343222-AB99-43DE-8183-0C9DE5182098
